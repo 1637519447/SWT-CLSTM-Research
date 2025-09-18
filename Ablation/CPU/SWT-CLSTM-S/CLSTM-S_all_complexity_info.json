@@ -1,0 +1,28 @@
+{
+    "Alibaba_30s": {
+        "model_name": "CLSTM-S",
+        "dataset": "Alibaba_30s",
+        "macs": 55590150.0,
+        "macs_readable": "55.590M",
+        "params": 789063.0,
+        "params_readable": "789.063K",
+        "total_train_time_ms": 481437.77561187744,
+        "total_train_time_s": 481.43777561187744,
+        "total_train_time_min": 8.023962926864623,
+        "prediction_time_ms": 158.17022323608398,
+        "per_sample_time_ms": 0.2163751343858878
+    },
+    "Google_5m": {
+        "model_name": "CLSTM-S",
+        "dataset": "Google_5m",
+        "macs": 55590150.0,
+        "macs_readable": "55.590M",
+        "params": 789063.0,
+        "params_readable": "789.063K",
+        "total_train_time_ms": 90208.1651687622,
+        "total_train_time_s": 90.2081651687622,
+        "total_train_time_min": 1.50346941947937,
+        "prediction_time_ms": 24.557828903198242,
+        "per_sample_time_ms": 0.24557828903198242
+    }
+}

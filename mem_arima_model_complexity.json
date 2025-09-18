@@ -1,0 +1,13 @@
+{
+    "model_name": "ARIMA",
+    "datasets": {
+        "Alibaba_30s": {
+            "macs": 20839000.0,
+            "params": 10.0
+        },
+        "Google_5m": {
+            "macs": 4868500.0,
+            "params": 10.0
+        }
+    }
+}
